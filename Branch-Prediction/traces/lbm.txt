@@ -1,0 +1,5 @@
+!!! Number of Instructions = 88044155
+!!! Number of Unconditional branches = 7513234
+!!! Number of Conditional branches = 10000000
+!!! Number of Call branches = 2504424
+!!! Number of Ret branches = 2504410
